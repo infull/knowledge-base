@@ -1,3 +1,5 @@
+[[index]](https://infull.github.io/knowledge-base/index.md)
+
 ### pipe_implementation
 
 from sklearn.impute import SimpleImputer
@@ -45,5 +47,7 @@ column_trans = make_column_transformer(
 scaler = StandardScaler()
 classifier = LogisticRegression(random_state=42)
 
-# Final Pipeline
+#### Final Pipeline
 pipeline = make_pipeline(column_trans, scaler, classifier)
+
+[[index]](https://infull.github.io/knowledge-base/index.md)
