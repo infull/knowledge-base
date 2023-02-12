@@ -4,3 +4,4 @@
 2. fit_transform vs fit, transform
 
 3. [[germs.html]](https://infull.github.io/knowledge-base/germs.html)
+4. [[germs2]]
